@@ -1,0 +1,27 @@
+   /* user profile css start */
+.profileImgBox {
+    max-width: 150px;
+    margin: auto;
+}
+  .profileImgBox .editicon{
+    position: absolute;
+    bottom: 82px;
+    right: 35px;
+    color:#0d6efd;
+  }
+
+  hr.solid {
+    border-top: 1px solid #e6ebf4;
+    
+  }
+
+  #imageUpload
+  {
+      display: none;
+  }
+  
+  #profileImage
+  {
+      cursor: pointer;
+  }
+       /* user profile css end */
